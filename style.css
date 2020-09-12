@@ -1,0 +1,17 @@
+.container {
+    width: 100%;
+    background-color: #18867f;
+}
+.search_bar{
+     padding: 8px;
+     width: -webkit-fill-available;
+}
+.row-md-8{
+    color: black;
+}
+
+.explore_tag{
+    font-size: 23px;
+    border: 2px solid black;
+    padding: 15px;
+}
